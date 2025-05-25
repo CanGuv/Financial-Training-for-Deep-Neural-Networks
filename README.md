@@ -40,6 +40,12 @@ Using historical financial data, a carefully engineered set of input features, a
 
 ---
 
+## 📄 Project Paper
+
+You can read the full research paper describing the methodology, experiments, and results: [Google Drive Link] (https://drive.google.com/file/d/1zZjJt8Cyc4BDlycIQg1VkMKlk4_8XJg6/view?usp=sharing)
+
+---
+
 ## 📥 Installation
 
 ```bash
